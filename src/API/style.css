@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.content {
+    background: rgb(4, 4, 4);
+    background: linear-gradient(0deg, rgba(4, 4, 4, 1) 0%, rgba(45, 45, 58, 1) 32%, rgba(4, 13, 247, 1) 100%);
+}
+
+.form {
+    border: 2px solid #a4abd5;
+    background: transparent;
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+span {
+    color: #fff;
+    margin-left: 5px;
+}
+
+.wl {
+    width: 400px;
+}
+
+.product {
+    background-color: #212529;
+    padding: 20px;
+    border-radius: 10px;
+    color: #fff;
+}
+
+img {
+    transition: all 0.2s linear;
+}
+
+.bg-lightr {
+    background-color: #f0f0f0;
+}
+
+.dark-card:hover img {
+    transform: scale(1.1);
+}
+
+.dark-card {
+    background: #212529 !important;
+    border: 1px solid #1f2940 !important;
+    box-shadow: 5px 10px 2px 1px gray;
+    border-radius: 7px;
+    padding: 20px 20px;
+}
+.sp{
+    position: absolute;
+    top:-10px;
+    right: -10px;
+    padding: 1px 8px;
+    background-color: red;
+    color: #fff;
+    border-radius:50%;
+}
+.img{
+    width: 150px;
+    height: 150px;
+    margin-left: 20px;
+}
+::-webkit-scrollbar {
+    width: 0px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}

@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "name": "Kalpesh",
+      "email": "kalpesh@gmail.com",
+      "password": "123",
+      "id": "1"
+    }
+  ],
+  "products": [
+    {
+      "id": "11",
+      "quantity": 1,
+      "name": "iQOO 9 Pro 5G",
+      "info": "iQOO 9 Pro 5G (Legend, 8GB RAM, 256GB Storage) | Snapdragon 8 Gen 1 Mobile Processor | 120W FlashCharge",
+      "price": 109,
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/61lWkGr0RiL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "12",
+      "quantity": 1,
+      "name": "TECNO Phantom V Fold 5G",
+      "info": "TECNO Phantom V Fold 5G Black (12GB RAM,256GB Storage) | The First Full Size Fold | LTPO AMOLED Display | 4nm D9000+ Fast Processor",
+      "price": 114,
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/61v2S36O42L._AC_UY327_QL65_.jpg"
+    },
+    {
+      "id": "13",
+      "quantity": 1,
+      "name": "Motorola razr 40 Ultra",
+      "info": "Motorola razr 40 Ultra (Infinite Black, 8GB RAM, 256GB Storage) | 3.6 External AMOLED Display | 6.9 AMOLED 165Hz Display",
+      "price": 599,
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/617D7U0bJ-L._AC_UY327_QL65_.jpg"
+    },
+    {
+      "id": "14",
+      "quantity": 1,
+      "name": "HONOR 90",
+      "info": "HONOR 90 (Emerald Green, 12GB + 512GB) | India's First Eye Risk-Free Display | 200MP Main & 50MP Selfie Camera",
+      "price": 999.99,
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/81uNWyk3PaL._AC_UY327_QL65_.jpg"
+    }
+  ],
+  "cart": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
